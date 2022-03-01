@@ -1,0 +1,7 @@
+{
+	"message": {
+		"tag": "value"
+	},
+	"recipient_verkey": "keyRecipient",
+	"sender_verkey": "keySender"
+}

@@ -1,0 +1,6 @@
+{
+	"ciphertext": "cipherText",
+	"iv": "iv",
+	"protected": "protected",
+	"tag": "tag"
+}

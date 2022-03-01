@@ -1,0 +1,8 @@
+{
+	"cid": false,
+	"crypto_type": "ed25519",
+	"did": "did",
+	"method_name": "method_name",
+	"seed": "seed"
+}
+
